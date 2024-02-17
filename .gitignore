@@ -1,0 +1,5 @@
+
+AOSnifferNET/
+.venv/
+.idea/
+__pycache__/
